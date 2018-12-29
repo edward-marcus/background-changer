@@ -1,1 +1,1 @@
-# background-changer
+This script was designed for windows machines(works good on my windows 10).It selects a random picture from a folder of pictures and loads that random picture at every windows startup.It's executed automatically by windows if placed in windows startup folder(C:\Users\[your windows username]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\) 
